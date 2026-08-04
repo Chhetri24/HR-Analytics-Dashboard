@@ -1,6 +1,5 @@
 # HR Analytics Dashboard
 
-
 ## Overview
 This project analyzes employee attrition using SQL, Python, and Power BI. The objective is to identify workforce trends, attrition drivers, and key HR metrics that support data-driven decision making.
 
